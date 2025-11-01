@@ -1,0 +1,30 @@
+body{
+    background-color:#6B2E53;
+    color:#EAD9C3
+}
+header{
+    background-color:#C9A3A6;
+color:#6D4C6F;
+display:flex;
+justify-content: space-evenly;
+    text-align: center;
+}
+.centered{
+    display:flex;
+    
+}
+h2{
+    border: solid #6D4C6F 2px
+}
+
+footer{
+    background-color: #504551; 
+    color:azure;
+}
+a {
+    color:azure;
+}
+.intro{
+    max-width: 500px;
+    text-align: center;
+}
